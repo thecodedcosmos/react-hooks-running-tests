@@ -1,6 +1,6 @@
 import React from "react";
 
-function Article(props) {
+function Article() {
   return <h3>Please pass this test!</h3>;
 }
 
