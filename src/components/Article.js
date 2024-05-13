@@ -3,7 +3,7 @@ import React from "react";
 function Article() {
   return (
     <div>
-      screen.debug();
+      {/* please pass this test */}
     </div>
   );
 }
